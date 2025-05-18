@@ -5,3 +5,11 @@ print("the chracter of range functions are:")
 for i in range(8):
     
     print(i)
+    
+    # you can work with list of element in loop.
+    names = ["Herry","John","cloude","Beatrice"]
+for name in names:
+        print(name)
+name ="Herry"
+for character in name:
+    print (character)
