@@ -3,6 +3,6 @@
 
 
 name=input("Enter your name:")
-print("Hello "+name)
+
 ages=input("Enter your ages: ")
-print(f"My ages is { ages } years old.")
+print(f"My name is {name}  and my ages is { ages } years old.")
