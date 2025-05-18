@@ -14,3 +14,5 @@ s.add(d)
 s.add(e)
 s.remove(b)
 print(s)
+# And also we can calculate the number of element in the set usin len().
+print(f"The Number of element in the sete is {len(s)}")
